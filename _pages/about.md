@@ -9,3 +9,6 @@ redirect_from:
 ---
 
 This website is under construction.
+
+![Greenland Iceberg](/images/greenland_iceberg.jpg)
+<sup><sub>Photo credit: Croy Carlin</sub></sup>
