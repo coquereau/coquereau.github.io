@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Arthur Coquereau"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Physical Oceanography and Climate Science at [LOPS](https://www.umr-lops.fr)"
+  bio              : "PhD Student in Physical Oceanography and Climate Science"
   location         : "Brest, France"
-  employer         :
+  employer         : "https://www.umr-lops.fr"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8OeNyz4AAAAJ&hl=fr"
   email            :
