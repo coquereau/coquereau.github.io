@@ -2,7 +2,7 @@
 title: "A robust framework for comparing Lagrangian and gridded Eulerian velocity fields: an example application to surface drifters and altimetry-derived surface currents"
 collection: publications
 permalink: /publication/2022-12-23-robust-framework
-excerpt: 'In this preprint, we propose a 3-step framework to compare Lagrangian and gridded Eulerian velocity fields. If you are faced with assessing model/remote-sensing data to in-situ lagrangian trajectories (e.g. surface drifters), you might be interested in this work.'
+excerpt: ''
 date: 2022-12-23
 venue: 'EGUsphere [Preprint]'
 paperurl: 'https://egusphere.copernicus.org/preprints/2022/egusphere-2022-1450/'
