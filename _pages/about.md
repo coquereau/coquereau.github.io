@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This website is under construction.
+I study ocean and climate variability using ensemble simulations 🌍🌍🌍🌍🌍 as a PhD student at the Physical and Space Oceanography Laboratory (LOPS) 🇫🇷
+
+I am also interested in subpolar dynamics and the Atlantic Meridional Overturning Circulation (AMOC) and have been working on these topics from observations with Nick Foukal at the Woods Hole Oceanographic Institution (WHOI) 🇺🇸
 
 ![Greenland Iceberg](/images/greenland_iceberg.jpg)
 <sup><sub>Photo credit: Croy Carlin</sub></sup>
