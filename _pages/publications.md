@@ -13,6 +13,12 @@ author_profile: true
 
 ## Research papers
 
-{% for post in site.research reversed %}
+{% for post in site.researchpapers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Review papers
+
+{% for post in site.otherpapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
