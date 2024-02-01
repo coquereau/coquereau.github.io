@@ -1,8 +1,8 @@
 ---
 title: "Evaluating altimetry-derived surface currents on the south Greenland shelf with surface drifters"
 paperauthors: "Arthur Coquereau and Nicholas P. Foukal"
-collection: publications
-permalink: /publication/2023-09-21-evaluate-altimetry
+collection: reviewpublications
+permalink: /reviewpublications/2023-09-21-evaluate-altimetry
 date: 2023-09-21
 venue: 'Ocean Science'
 excerpt: ''
