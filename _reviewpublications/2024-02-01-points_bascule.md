@@ -1,6 +1,6 @@
 ---
 title: "La science des points de bascule [FR]"
-paperauthors: "Simon Beylat, **Arthur Coquereau**, Clément Le Priol, Tim Marino and Louis Saddier"
+paperauthors: "Simon Beylat, Arthur Coquereau, Clément Le Priol, Tim Marino and Louis Saddier"
 collection: reviewpublications
 permalink: /reviewpublications/2024-02-01-points_bascule
 date: 2024-02-01
