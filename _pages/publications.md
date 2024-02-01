@@ -19,6 +19,6 @@ author_profile: true
 
 ## Review papers
 
-{% for post in site.otherpapers reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
