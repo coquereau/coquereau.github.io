@@ -86,9 +86,9 @@ author:
   location         : "Brest, France"
   employer         : "https://www.umr-lops.fr"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=8OeNyz4AAAAJ&hl=fr"
+  googlescholar    : "https://scholar.google.com/citations?user=8OeNyz4AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Arthur-Coquereau-2"
   uri              :
   bitbucket        :
   codepen          :
