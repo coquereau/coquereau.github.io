@@ -1,7 +1,7 @@
 ---
 title: "A robust framework for comparing Lagrangian and gridded Eulerian velocity fields: an example application to surface drifters and altimetry-derived surface currents"
 paperauthors: "Arthur Coquereau and Nicholas P. Foukal"
-collection: researchpapers
+collection: OLD_researchpapers
 permalink: /old_publications/2022-12-23-robust-framework
 date: 2022-12-23
 venue: 'EGUsphere [Preprint]'
