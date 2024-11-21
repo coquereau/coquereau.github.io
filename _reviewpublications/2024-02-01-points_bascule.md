@@ -9,4 +9,4 @@ excerpt: ''
 
 ---
 
-Beylat, Simon ; **Coquereau, Arthur** ; Le Priol, Clément ; Marino, Tim ; Saddier, Louis. La science des points de bascule. La Météorologie, 124, 44-48, 2024. [10.37053/lameteorologie-2024-0012](10.37053/lameteorologie-2024-0012)
+Beylat, Simon ; **Coquereau, Arthur** ; Le Priol, Clément ; Marino, Tim ; Saddier, Louis. La science des points de bascule. La Météorologie, 124, 44-48, 2024. [10.37053/lameteorologie-2024-0012](https://lameteorologie.fr/issues/2024/124/meteo_2024_124_44)
