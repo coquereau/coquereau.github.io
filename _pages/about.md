@@ -15,7 +15,7 @@ I study ocean and climate variability using ensemble simulations at the **Labora
 
 These analyses deploy across different scales and quantities: the Atlantic Meridional Overturning Circulation, surface air temperature and precipitation at a global scale, El Niño-Southern Oscillation, etc.
 
-I'm also interested in methodological questions related to ergodicity, the use of ensemble simulations, and space statistics vs. time statistics, among many others.
+I'm also interested in methodological questions related to ergodicity, the use of ensemble simulations, and ensemble statistics vs. time statistics, among many others.
 
 This work is currently the object of a PhD thesis under the supervision Florian Sévellec, Thierry Huck, and Joël Hirschi (NOCS).
 
