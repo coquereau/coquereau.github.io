@@ -17,7 +17,7 @@ These analyses deploy across different scales and quantities: the Atlantic Merid
 
 I'm also interested in methodological questions related to ergodicity, the use of ensemble simulations, and ensemble statistics vs. time statistics, among many others.
 
-This work is currently the object of a PhD thesis under the supervision Florian Sévellec, Thierry Huck, and Joël Hirschi (NOCS).
+This work is currently the object of a PhD thesis under the supervision of Florian Sévellec, Thierry Huck, and Joël Hirschi (NOCS).
 
 Alongside this, I'm also interested in smaller scales, looking at subpolar ocean dynamics, and have been working on this topics using in-situ and remote sensing observations with Nick Foukal at **Woods Hole Oceanographic Institution** (WHOI, MA) 🇺🇸.
 
