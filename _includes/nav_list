@@ -42,5 +42,6 @@
         {% endif %}
       </li>
     {% endfor %}
+    <li><a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">CV</a></li>
   </ul>
 </nav>
