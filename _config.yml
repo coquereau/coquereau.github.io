@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arthur Coquereau"
 title_separator          : "-"
 name                     : &name "Arthur Coquereau"
-description              : &description "PhD Student in Physical Oceanography and Climate Science"
+description              : &description "Postdoctoral Researcher in Physical Oceanography and Climate Science"
 url                      : https://coquereau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "coquereau/coquereau.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Arthur Coquereau"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Physical Oceanography and Climate Science at LOPS"
-  location         : "Brest, France"
-  employer         : "https://www.umr-lops.fr"
+  bio              : "Postdoctoral Researcher in Physical Oceanography and Climate Science"
+  location         : "LOPS, Brest, France"
+  employer         : "CNRS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8OeNyz4AAAAJ"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ArthurCoquereau"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
